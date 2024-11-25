@@ -6,3 +6,5 @@ git commit -m ""
 git log
 git reset --hard commitId
 git banch
+git remote add orign http
+git push -u orign main
